@@ -14,9 +14,10 @@ Showcasing development, design, and animation projects with a modern UI.
 
 ## 📂 Folder Structure
 
-/assets
-/images
-/css
-/js
-index.html
-README.md
+- /assets
+- /images
+- /css
+- /js
+- index.html
+- README.md
+
